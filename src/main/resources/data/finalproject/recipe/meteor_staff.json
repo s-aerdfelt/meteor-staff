@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ini",
+    "i/i",
+    " / "
+  ],
+  "key": {
+    "i": "minecraft:iron_ingot",
+    "n": "minecraft:netherite_ingot",
+    "/": "minecraft:blaze_rod"
+  },
+  "result": {"id": "finalproject:meteor_staff", "count": 1}
+}
